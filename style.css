@@ -2,3 +2,7 @@
 	font-family: "Consolas", sans-serif;
 	color: brown;
 }
+.content {
+	font: bold 14px "Consolas", sans-serif;
+	color: gray;
+}
